@@ -13,7 +13,7 @@ Essa linguagem **Markdown** também pode ser processada em diversos outros progr
 
 * Para colocar uma frase em negrito basta envelopar o texto com ** ou __
 
-* Para colocar uma frase em itálico basta em envelopar o texto com * ou _ 
+* Para colocar uma frase em itálico basta envelopar o texto com * ou _ 
 
 * Para deixar um texto riscado basta envelopar o texto com ~~
 
