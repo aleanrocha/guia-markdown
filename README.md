@@ -108,4 +108,3 @@ num = int(input("Digite um valor: "))
  Para adicionar _emoji_ basta colocar dois pontos e o nome do emoji **: + nome do emeji** 💛
  
  Estou utilizando emoji 😊 🌎 ✋
- 
