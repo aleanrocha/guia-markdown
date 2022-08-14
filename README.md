@@ -110,4 +110,3 @@ num = int(input("Digite um valor: "))
  Estou utilizando emoji 😊 🌎 ✋
 
 
-
